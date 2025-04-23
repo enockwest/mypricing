@@ -1,0 +1,71 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: aliceblue;
+    margin: 0;
+    padding: 20px;
+    color: #333;
+}
+
+.pricing-container {
+
+    max-width: 900px;
+    margin: auto;    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 40px;
+    color: #2c3e50;
+}
+
+.card {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 30px;
+    padding: 20px;
+}
+
+.card h2 {
+    color: #16a085;
+}
+
+.card ul {
+    list-style: none;
+    padding: 0;
+    border-radius: 10px;
+}
+
+.card li {
+    margin: 10px 0;
+}
+
+.card a {
+    text-decoration: none;
+    color: #000508;
+    font-size: larger;
+    font-size: 20px;
+    transition: color 0.3s;
+}
+
+
+.card button{
+    width: 100%;
+    border: 0px;
+    background-color:rgb(149, 238, 97);
+    padding: 10px;
+    color: rgb(248, 60, 13);
+    border-radius: 5px;
+}
+
+.card button a{
+    color: #0e0d0d;
+    font-size: medium;
+}
+.card button:hover{
+    background-color: aqua;
+}
+
+.card a:hover {
+    color: #2980b9;
+}
