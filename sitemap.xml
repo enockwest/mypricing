@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webPricing>
+    <meta>
+        <title>Web Pricing Packages | Affordable Websites in Uganda</title>
+        <description>Explore our affordable web packages starting at just UGX 150,000. Perfect for startups, professionals, and businesses in Uganda.</description>
+        <keywords>
+            website pricing Uganda, affordable web design Uganda, web packages,
+            website deals Uganda, small business websites, Ugandan web development
+        </keywords>
+        <author>Your Name or Company Name</author>
+    </meta>
+
+    <header>AFFORDABLE WEBSITES FOR GROWING BUSINESSES</header>
+
+    <demoNotice>
+        <title>Click In The Demo Websites</title>
+    </demoNotice>
+
+    <packages>
+        <package name="Starter" price="UGX 150,000">
+            <demos>
+                <demo name="Pizza">https://enockwest.github.io/mypizza15/</demo>
+                <demo name="Lounge">https://enockwest.github.io/mylounge15/</demo>
+                <demo name="Bakery">https://enockwest.github.io/mybakery15/</demo>
+            </demos>
+        </package>
+
+        <package name="Pro" price="UGX 250,000">
+            <demos>
+                <demo name="Restaurant">https://enockwest.github.io/myrest25/</demo>
+                <demo name="Lounge">https://enockwest.github.io/mylounge25/</demo>
+                <demo name="Cafe">https://enockwest.github.io/mycafe25/</demo>
+            </demos>
+        </package>
+
+        <package name="Premium" price="UGX 350,000">
+            <demos>
+                <demo name="Ice Cafe">https://enockwest.github.io/myice35/</demo>
+                <demo name="Coffee">https://enockwest.github.io/mycoffee35/</demo>
+                <demo name="Elite Bites">https://enockwest.github.io/myelitebites35/</demo>
+            </demos>
+        </package>
+    </packages>
+
+    <hosting>
+        <fee>UGX 50,000</fee>
+        <benefit>Online Presence</benefit>
+    </hosting>
+
+    <contact>
+        <phone>256-700531200</phone>
+        <email>pythonpro2005@gmail.com</email>
+    </contact>
+</webPricing>
